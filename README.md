@@ -1,6 +1,6 @@
 # ⚽ Power BI Dashboard – Análisis de Equipos Sudamericanos (2020–2024)
 
-![Portada del Dashboard](Thumbnail.png)
+![Portada del Dashboard](thumbnail.png)
 
 ## 🇪🇸 Descripción en Español
 
